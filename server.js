@@ -2,7 +2,7 @@ const express = require("express");
 const PORT = process.env.PORT || 3001;
 const path = require("path");
 const fs = require("fs");
-const db = require("./db/db.json");
+const uniqueId = require("uniqid");
 const app = express();
 
 // Middleware
@@ -31,6 +31,7 @@ app.post("/api/notes", (req, res) => {
     const newNote = {
       title,
       text,
+      id: uniqueId(`${title}-`),
     };
 
     // Write the string to a file

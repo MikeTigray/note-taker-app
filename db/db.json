@@ -1,1 +1,13 @@
-[{"title":"Wednesday","text":"Take dog out","id":"note-zen1iqbl8864fsu"},{"title":"Sunday","text":"Go to church","id":"note-zen1kj1l88z5vxe"},{"title":"Monday","text":"Stroll dog","id":"note-zen1kjbl88z6qo8"}]
+[
+  {
+    "title": "Wednesday",
+    "text": "Take dog out",
+    "id": "note-zen1iqbl8864fsu"
+  },
+  {
+    "title": "Thursday ",
+    "text": "Do something",
+    "id": "note-zen1l9fl89001ui"
+  },
+  { "title": "Friday", "text": "go out", "id": "note-zen1l9rl8900vxs" }
+]

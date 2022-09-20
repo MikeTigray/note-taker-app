@@ -22,7 +22,9 @@ It enables users to write and save notes so that they can can organize their tho
 
 ## <a id="installation">Installation </a>
 
-[Use heroku live link]() or run localhost/3001 locally
+🔗[ Use heroku live link](https://secret-dawn-18003.herokuapp.com) or run localhost/3001 locally
+
+🔗[GitHub repo link](https://github.com/MikeTigray/note-taker-app)
 
 ## <a id="usage"> Usage </a>
 

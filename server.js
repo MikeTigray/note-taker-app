@@ -20,6 +20,6 @@ app.get("/notes", (req, res) => {
 });
 
 const notesRouter = require("./routes/api/notes/notes");
-
 app.use("/api/notes", notesRouter);
+
 app.listen(PORT, () => console.log(`Listening at PORT ${PORT}`));
